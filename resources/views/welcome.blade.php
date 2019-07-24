@@ -15,7 +15,7 @@
 
     <div class="content">
         <div class="title m-b-md">
-            Laravel
+            test
         </div>
 
         <input type=button name=type id='bt1' value='Show Layer' onclick="setVisibility('sub3');";>
